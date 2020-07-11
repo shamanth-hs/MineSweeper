@@ -36,6 +36,5 @@
         </menu>
     </item>
 
-    <item android:title="Help"
-        android:id="@+id/help"/>
+
 </menu>

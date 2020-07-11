@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:background="@color/colorPrimary"
     android:orientation="vertical"
-    tools:context="com.example.rahulmishra.minesweeper.MainActivity">
+    tools:context="com.example.rahulmishra.minesweeper.com.shamanth.minesweeper.MainActivity">
 
     <LinearLayout
         android:layout_width="match_parent"

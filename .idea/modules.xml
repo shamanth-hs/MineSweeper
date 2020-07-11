@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/MineSweeper.iml" filepath="$PROJECT_DIR$/MineSweeper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Minesweeper_project.iml" filepath="$PROJECT_DIR$/.idea/modules/Minesweeper_project.iml" group="Minesweeper_project" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Minesweeper_project-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Minesweeper_project-app.iml" group="Minesweeper_project/app" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>

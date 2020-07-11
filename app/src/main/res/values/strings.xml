@@ -2,4 +2,15 @@
     <string name="app_name">MineSweeper</string>
     <string name="preferences">myPrefs</string>
     <string name="rotation">rotation</string>
+    <string name="minesweeper">MineSweeper</string>
+    <string name="best_time">Best time</string>
+    <string name="last_played_time">Last Played Time</string>
+    <string name="easy">Easy</string>
+    <string name="medium">Medium</string>
+    <string name="difficult">Difficult</string>
+    <string name="make_custom_board">Make Custom Board</string>
+    <string name="enter_number_of_rows">Enter Number of Rows</string>
+    <string name="enter_number_of_columns">Enter Number of Columns</string>
+    <string name="enter_number_of_mines">Enter Number of Mines</string>
+    <string name="start">Start</string>
 </resources>
